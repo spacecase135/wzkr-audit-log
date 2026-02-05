@@ -13,3 +13,4 @@ This repository contains a growing archive of code audit reports, security revie
 
 ## 🧠 Structure
 
+- [2026-02: WinGet Integrity Workflow](audit/2026-02_winget-integrity-workflow.md)
